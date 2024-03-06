@@ -29,5 +29,10 @@
 [![Render](https://img.shields.io/badge/-Render-grey?style=for-the-badge&logo=Render&logoColor=white)](#)
 [![Netlify](https://img.shields.io/badge/-Netlify-black?style=for-the-badge&logo=Netlify&logoColor=white)](#)
 
+## Tools
+[![Git](https://img.shields.io/badge/-Git-grey?style=for-the-badge&logo=Git&logoColor=white)](#)
+[![Figma](https://img.shields.io/badge/-Figma-purple?style=for-the-badge&logo=Figma&logoColor=white)](#)
+[![Postman](https://img.shields.io/badge/-Postman-orange?style=for-the-badge&logo=Postman&logoColor=white)](#)
+
 ---
 
